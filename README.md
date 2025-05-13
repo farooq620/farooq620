@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,js | Vue.js | Node.js**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 03132508642</h3>
 <p align="left">
 </p>
 
