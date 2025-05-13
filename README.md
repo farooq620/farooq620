@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farooq Ahmed</h1>
-<h3 align="center">Aspiring Full Stack JavaScript Developer | Learning by Building Real Projects R</h3>
+<h3 align="center">Aspiring Full Stack JavaScript Developer | Learning by Building Real Projects </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farooq620&label=Profile%20views&color=0e75b6&style=flat" alt="farooq620" /> </p>
 
